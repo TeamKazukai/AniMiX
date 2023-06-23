@@ -4,7 +4,7 @@ export const firebaseConfig = {
   authDomain: "animix-a7813.firebaseapp.com",
   databaseURL: "https://animix-a7813-default-rtdb.firebaseio.com",
   projectId: "animix-a7813",
-  storageBucket: "animix-a7813.appspot.com",
+  storageBucket: "https://console.firebase.google.com/project/website-anime-c4695/storage/website-anime-c4695.appspot.com/files",
   messagingSenderId: "818614176805",
   appId: "1:818614176805:web:4d697b26e0881a9273c3cc",
   measurementId: "G-RP9CPGVEGR"
